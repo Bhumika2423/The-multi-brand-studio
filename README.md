@@ -21,13 +21,13 @@ To install **The Multi-brand Studio**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Bhumika2423/The-Multi-Brand-Studio.git
+sudo git clone https://github.com/Bhumika2423/The-multi-brand-studio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Bhumika2423/The-Multi-Brand-Studio.git
+git clone https://github.com/Bhumika2423/The-multi-brand-studio.git
 ```
 
 ## Contact
