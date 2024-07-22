@@ -1,7 +1,7 @@
 # The Multi-Brand Studio - An eCommerce Website
 
 
-This is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+This is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, JavaScript,Angularjs and Bootstrap.
 
 ## Demo
 
